@@ -1,0 +1,16 @@
+{
+  "blocks": [
+    {
+      "name": "oak_log",
+      "amount": 64
+    },
+    {
+      "name": "cobblestone",
+      "amount": 128
+    },
+    {
+      "name": "dirt",
+      "amount": 64
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "server": {
+    "ip": "AstroHardSurvival.aternos.me",
+    "port": 53491,
+    "version": "1.12.1"
+  },
+  "item-chest": {
+    "x": 151,
+    "y": 69,
+    "z": -37
+  }
+}

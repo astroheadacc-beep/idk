@@ -1,0 +1,27 @@
+{
+  "bot-account": {
+    "username": "GatherBot2",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "gathering-area": {
+    "use-seed": true,
+    "seed": 22222,
+    "max-distance": 100,
+    "search-radius": 32
+  },
+
+  "deliver-to": {
+    "player-name": "Astro1540"
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
